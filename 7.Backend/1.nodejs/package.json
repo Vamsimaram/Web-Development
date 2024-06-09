@@ -1,0 +1,12 @@
+{
+  "name": "summation",
+  "version": "1.0.0",
+  "description": "add the numbers",
+  "main": "d30math.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vamsi",
+  "license": "ISC",
+  "type":"module"
+}
